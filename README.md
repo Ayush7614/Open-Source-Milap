@@ -1,6 +1,6 @@
 # Deep Dive Into Open Source
 
-This repo contains the presentation for meetup on Open Source by CodeToExpress
+This repo contains the presentation for meetup on Open Source
 
 ![Ayush7614](https://socialify.git.ci/Ayush7614/Open-Source-Milap/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
