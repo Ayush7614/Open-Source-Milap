@@ -3,7 +3,7 @@
 This repo contains the presentation for meetup on Open Source by CodeToExpress
 
 <div align="center">
-    <img src="./GitHub.PNG" alt="Poster" />
+    <img src="./Open Source 1.png" alt="Poster" />
 </div>
 
 ## Content Flow
