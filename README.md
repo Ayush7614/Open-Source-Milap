@@ -2,6 +2,9 @@
 
 This repo contains the presentation for meetup on Open Source by CodeToExpress
 
+![Ayush7614](https://socialify.git.ci/Ayush7614/Open-Source-Milap/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+
+
 <div align="center">
     <img src="./Open Source 1.png" alt="Poster" />
 </div>
