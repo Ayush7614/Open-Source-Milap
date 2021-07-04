@@ -9,6 +9,11 @@ This repo contains the presentation for meetup on Open Source
     <img src="./Open Source 1.png" alt="Poster" />
 </div>
 
+## Open Source Programs 
+
+<img src="https://github.com/Ayush7614/Instatags/blob/master/devincept.gif" alt="DevIncept" />
+
+
 ## Content Flow
 
 1. Intro + Community Bonding
